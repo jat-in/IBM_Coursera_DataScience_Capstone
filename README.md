@@ -1,4 +1,4 @@
-# IBM_Coursera_DataScience_Capstone
+# Neighborhood Segmentation Using Unsupervised Learning and FourSquare API
 
 Summary
 
